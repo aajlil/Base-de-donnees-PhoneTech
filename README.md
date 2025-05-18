@@ -1,4 +1,4 @@
-# Creation-Base-de-donnees-PhoneTech-
+# Base-de-donnees-PhoneTech
 
 Ce projet propose une base de données pour PhoneTech, une plateforme fictive de vente en ligne de téléphones. Il permet la gestion complète du catalogue de téléphones, des clients, des commandes, des paniers ainsi que du stock disponible. Il prend aussi en charge la gestion des rôles utilisateurs (client, administrateur) et l’état des commandes.
 
